@@ -15,7 +15,7 @@
 
 ## Example
 --------------------------------------------
-<https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXK60FUQAPmO0kBTwvvz0sGKHGXdubnEaJ0Q&usqp=CAU>
+![고양이](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXK60FUQAPmO0kBTwvvz0sGKHGXdubnEaJ0Q&usqp=CAU)
 
 ## Reference
  - 크집사 링크
